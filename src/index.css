@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital,wght@0,400;0,700;1,400&family=Encode+Sans+Expanded:wght@400;700&family=Raleway:wght@400;600&display=swap');
+
+body {
+  margin: 0;
+  font-size: 1.5rem;
+  font-family: 'Raleway', sans-serif;
+  /* ff 3.6+ */
+  height: 100vh;
+  overflow-x: hidden;
+  background: linear-gradient(135deg, rgba(76, 78, 76, 1) 1%, rgba(161, 203, 212, 1) 99%);
+
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
